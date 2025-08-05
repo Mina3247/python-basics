@@ -1,14 +1,10 @@
-# setting of dev tools and intro to python
-print("hello world")
-
-# getting started with programming
-a=4
-b=4
-print(a+b)
-
-c="4"
-d="4"
-print(c+d)
-
-print(type(a))
-print(type(c))
+Raj="23/04/2010"
+Mina="2/01/2012"
+tobi="04/02/2013"
+carlos="02/12/2014"
+selvana="02/02/2008"
+print(Raj)
+print(Mina)
+print(tobi)
+print(carlos)
+print(selvana)
