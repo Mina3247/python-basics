@@ -63,6 +63,6 @@ password=input("enter a password")
 correct_username= "mina.2067"
 correct_password="123"
 if username == correct_username and password== "123":
-    print("welcome")
+    print("login is successful")
 else:
     print("incorrect username or password")

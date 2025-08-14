@@ -111,19 +111,19 @@
 #     print("abnormal body temperature detected")
 
 
-height_in_cm=float(input("enter your height in cm: "))
-weight_in_kg=float(input("enter your weight in kg: "))
-height_in_meters=height_in_cm/100
-BMI=weight_in_kg/(height_in_meters**2)
-BMI=round(BMI,1)
-print(BMI)
-if BMI<18.5:
-    print("you are underweight")
-elif BMI<=24.9:
-    print("you are healthy weight")
-elif BMI<=29.9:
-    print("you are overweight")
-elif BMI<=39.9:
-    print("you are obese")
-else:
-    print("you are severly obese")
+# height_in_cm=float(input("enter your height in cm: "))
+# weight_in_kg=float(input("enter your weight in kg: "))
+# height_in_meters=height_in_cm/100
+# BMI=weight_in_kg/(height_in_meters**2)
+# BMI=round(BMI,1)
+# print(BMI)
+# if BMI<18.5:
+#     print("you are underweight")
+# elif BMI<=24.9:
+#     print("you are healthy weight")
+# elif BMI<=29.9:
+#     print("you are overweight")
+# elif BMI<=39.9:
+#     print("you are obese")
+# else:
+#     print("you are severly obese")
